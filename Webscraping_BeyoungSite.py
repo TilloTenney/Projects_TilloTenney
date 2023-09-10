@@ -99,6 +99,7 @@ try:
 except Exception as e:
         print("The error is: ", e)
 
+#To export the scraped data to excel format.
 import pandas as pd
 
 df = pd.DataFrame(zip(na,rate,status,img), columns=["T-Shirt_Names","Price","Status", "T-Shirt_Model"])
