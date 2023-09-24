@@ -10,7 +10,7 @@ warnings.filterwarnings('ignore')
 
 pio.templates.default = "plotly_white"
 
-air = pd.read_csv(r"C:\Users\vinti\PycharmProjects\pythonProject1\Datasets\trichyaqi.csv")
+air = pd.read_csv("/Datasets/trichyaqi.csv")
 
 #print(air.head())--To check the details of this dataframe from first 10 data
 
