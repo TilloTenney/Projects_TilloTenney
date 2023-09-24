@@ -6,7 +6,7 @@ import warnings
 warnings.filterwarnings('ignore')
 pio.templates.default = "plotly_white"
 
-browser = pd.read_csv(r'/Datasets/user_data.csv')
+browser = pd.read_csv('/Datasets/user_data.csv')
 print(browser.head(10))
 print(browser.describe())
 print(browser['stage'].value_counts())
