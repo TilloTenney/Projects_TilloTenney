@@ -8,7 +8,7 @@ import warnings
 pio.templates.default = "plotly_white"
 warnings.filterwarnings("ignore")
 
-EDA = pd.read_csv(r"C:\Users\vinti\PycharmProjects\pythonProject1\Datasets\Instagram_data.csv", encoding='latin-1')
+EDA = pd.read_csv("/Datasets/Instagram_data.csv", encoding='latin-1')
 
 #Print the first five rows of the data
 print(EDA.head(), "\n")
