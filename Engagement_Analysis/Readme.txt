@@ -3,6 +3,7 @@ Engagement_Analysis
 Purpose:-
 
 * Analyze user interactions with posts and identify top-performing content.
+* I'm using MYSQL database for this analysis.
 
 Key Objectives:-
 
