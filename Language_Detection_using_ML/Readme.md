@@ -1,4 +1,4 @@
-🚀 Project: Simplified Language Detection with Data Science
+******🚀 Project: Simplified Language Detection with Data Science******
 
 **Introduction:**
 
@@ -10,7 +10,8 @@
 
 🌐 22 languages, 1000 sentences each.
 📋 Balanced dataset, zero missing data.
-🔍 Methodology:
+
+****🔍 Methodology:****
 
 **Data Prep:**
 
